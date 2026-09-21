@@ -1,0 +1,7 @@
+{
+  "name": "FormFit AI",
+  "description": "Mobile-first AI fitness form analyzer and real-time posture coach using smartphone camera and computer vision.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
